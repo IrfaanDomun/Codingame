@@ -17,7 +17,7 @@ if sum(list_budget) >= c:
     fair_share = c/n
     paid_so_far = 0
     """"
-    Checking from the poorest the richest Ood 
+    Checking from the poorest to the richest Ood 
     if they can pay the fair shade and report it otherwise on the richer
     """
     list_budget = sorted(list_budget)    
